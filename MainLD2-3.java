@@ -7,8 +7,8 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("111RDB111 Jānis Programmētājs");
-		System.out.println("0. variants");
+		System.out.println("241RDB228 Edgars Gerulis");
+		System.out.println("29. variants");
 				
 		double x, y;
 		
